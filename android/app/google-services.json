@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "399634297260",
+    "project_id": "cdpc-dd-b3b46",
+    "storage_bucket": "cdpc-dd-b3b46.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399634297260:android:e865049dc97024c03b8a09",
+        "android_client_info": {
+          "package_name": "com.example.cdpc_tnp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_0Mm7nuRtMfkFbO5capSkZfMT4amHJIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399634297260:android:25767b76979643f73b8a09",
+        "android_client_info": {
+          "package_name": "com.example.cpdc_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_0Mm7nuRtMfkFbO5capSkZfMT4amHJIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
